@@ -1650,12 +1650,12 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Page title
         description: The page title that goes into the <title> tag
         default: ''
       - type: string
         name: description
-        label: Description
+        label: Page description
         description: The page description that goes into the <meta name="description"> tag
         default: ''
       - type: list
